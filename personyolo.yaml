@@ -1,0 +1,5 @@
+train: yolodataset/train/images
+val: yolodataset/val/images
+nc: 10
+names: ["person", "hard-hat", "gloves", "mask", "glasses", "boots", "vest", "ppe-suit", "ear-protector", "safety-harness"]
+  
