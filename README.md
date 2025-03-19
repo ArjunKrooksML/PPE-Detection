@@ -3,6 +3,8 @@
 PPE Detection System Readme
 Project Overview
 
+Dataset: https://drive.google.com/file/d/1myGjrJZSWPT6LYOshF9gfikyXaTCBUWb/view
+
 Toolkit for detecting Personal Protective Equipment (PPE) using YOLO models.
 
     Detects people in images
