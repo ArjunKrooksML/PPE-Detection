@@ -5,6 +5,8 @@ Project Overview
 
 Dataset: https://drive.google.com/file/d/1myGjrJZSWPT6LYOshF9gfikyXaTCBUWb/view
 
+**Note**: The files are to be run using arguments in the CLI as we've used Argparse.
+
 Toolkit for detecting Personal Protective Equipment (PPE) using YOLO models.
 
     Detects people in images
